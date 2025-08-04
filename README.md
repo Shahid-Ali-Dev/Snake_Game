@@ -1,4 +1,4 @@
-# 🐍 Snake Game using Turtle 🧻
+# 🐍 Snake Game using Turtle 🐢
 
 A retro-style **Snake Game** built with Python's `turtle` module. Eat poop, grow longer, and avoid hitting walls or yourself. One bite of the wall—or your tail—and it's game over!
 
