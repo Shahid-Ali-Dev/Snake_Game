@@ -1,6 +1,6 @@
 # 🐍 Snake Game using Turtle 🐢
 
-A retro-style **Snake Game** built with Python's `turtle` module. Eat poop, grow longer, and avoid hitting walls or yourself. One bite of the wall—or your tail—and it's game over!
+A retro-style **Snake Game** built with Python's `turtle` module. Eat food, grow longer, and avoid hitting walls or yourself. One bite of the wall—or your tail—and it's game over!
 
 ![Python](https://img.shields.io/badge/Made%20With-Python3-blue?style=flat-square)
 ![Game](https://img.shields.io/badge/Type-Arcade%20Game-green?style=flat-square)
@@ -10,7 +10,7 @@ A retro-style **Snake Game** built with Python's `turtle` module. Eat poop, grow
 
 ## 🎮 Game Description
 
-In **Snake Game**, you control a snake that moves around the screen eating randomly placed poop. Every time it eats, it grows in length. The challenge is to keep it alive as long as possible without:
+In **Snake Game**, you control a snake that moves around the screen eating randomly placed food. Every time it eats, it grows in length. The challenge is to keep it alive as long as possible without:
 
 - Crashing into the screen borders 🚫
 - Biting its own tail 🐍☠️
@@ -43,8 +43,8 @@ Use the arrow keys to control the snake:
 
 ## 🍔 Gameplay Logic
 
-- Snake eats poop placed randomly on the screen.
-- Each poop increases the snake's length and the score.
+- Snake eats food placed randomly on the screen.
+- Each food increases the snake's length and the score.
 - Hitting the wall or yourself ends the game.
 - The score is displayed and updated in real time.
 - On game over, a message is shown.
